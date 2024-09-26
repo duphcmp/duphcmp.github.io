@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://duphcmp.github.io/sitemap.duphcmp.gz
+Sitemap: https://duphcmp.github.io/app/sitemap.duphcmp.gz
+Sitemap: https://duphcmp.github.io/assets/sitemap.duphcmp.gz
+Sitemap: https://duphcmp.github.io/css/sitemap.duphcmp.gz
+Sitemap: https://duphcmp.github.io/data/sitemap.duphcmp.gz
+Sitemap: https://duphcmp.github.io/includes/sitemap.duphcmp.gz
+Sitemap: https://duphcmp.github.io/item/sitemap.duphcmp.gz
+Sitemap: https://duphcmp.github.io/src/sitemap.duphcmp.gz
